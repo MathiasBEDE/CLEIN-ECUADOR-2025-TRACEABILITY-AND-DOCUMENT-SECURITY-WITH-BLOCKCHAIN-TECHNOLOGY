@@ -126,4 +126,5 @@ Para cualquier duda o problema:
 
 ---
 
-**Desarrollado para gestión documental simple y eficiente** 🚀
+**Desarrollado para gestión documental simple y eficiente** 
+
